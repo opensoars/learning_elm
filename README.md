@@ -42,10 +42,11 @@ How are we doing today?
 2 : Int
 ```
 #### Float
-```
+``` elm
 2.5
 5.43455
-
+```
+```
 > 5 / 2
 2.5 : Float
 ```
