@@ -49,9 +49,15 @@ How are we doing today?
 2.5 : Float
 ```
 
-
 ### Booleans
+``` elm
+True
+False
+```
+
 ### Lists
+
+
 ### Tuples
 
 ```
