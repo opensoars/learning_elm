@@ -1,8 +1,27 @@
+# Comments
+``` elm
+-- Single line comment
+
+{-
+  Multiple line comment
+-}
+```
+
 # Data types
 
 ## Strings
 ``` elm
+-- Single line string
+"Hello!"
+
+-- Multiple line string
+"""
+Hello World,
+
+How are we doing today?
+"""
 ```
+
 ## Numbers
 ### Int
 ### Float
