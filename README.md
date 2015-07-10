@@ -77,7 +77,7 @@ Standard array like functionality, one diffence: lists can only contain one data
 ```
 
 ### Tuples
-Data structure which can contain multiple data types, unline lists.
+Data structure which can contain multiple data types, unlike lists.
 ``` elm
 ("Tests succes", true)
 ```
