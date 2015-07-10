@@ -28,11 +28,12 @@ How are we doing today?
 ```
 
 ### Numbers
-```
+``` elm
 -- Data type number, until we decide what to do with it.
 5
 71393
-
+```
+```
 > 5
 5 : number
 ```
