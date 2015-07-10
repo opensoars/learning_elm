@@ -3,6 +3,7 @@ Learning me some Elm.
 
 ---
 
+
 ## Comments
 ``` elm
 -- Single line comment
@@ -11,6 +12,7 @@ Learning me some Elm.
   Multiple line comment
 -}
 ```
+
 
 ## Data types
 
@@ -25,6 +27,14 @@ Hello World,
 
 How are we doing today?
 """
+```
+
+### Chars
+``` elm
+'z'
+```
+```
+'z' : Char
 ```
 
 ### Numbers
@@ -77,6 +87,7 @@ False : Bool
 ["a","b"] : List String
 [[1],[2]] : List (List number)
 ```
+
 
 ## Functions
 
