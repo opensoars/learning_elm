@@ -76,17 +76,10 @@ False
 ```
 
 ### Tuples
+``` elm
+('Tests succes', true)
+```
 
-```
-"Hello!" : String
-5 : number
-5.6 : Float
-True : Bool
-False : Bool
-[1,2,3] : List number
-["a","b"] : List String
-[[1],[2]] : List (List number)
-```
 
 
 ## Functions
