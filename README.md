@@ -29,7 +29,7 @@ How are we doing today?
 ```
 
 ### Chars
-Chars use the single quote notation
+Chars use the single quote notation.
 ``` elm
 'z'
 ```
@@ -38,7 +38,7 @@ Chars use the single quote notation
 ```
 
 ### Numbers
-A pure number such as `5` will be of type `number` until it is turned into an `int` or `float`
+A pure number such as `5` will be of type `number` until it is turned into an `int` or `float`.
 ``` elm
 -- Data type number, until we decide what to do with it.
 5
