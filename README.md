@@ -45,6 +45,7 @@ How are we doing today?
 ```
 2.5
 5.43455
+
 > 5 / 2
 2.5 : Float
 ```
