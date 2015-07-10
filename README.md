@@ -37,7 +37,7 @@ How are we doing today?
 5 : number
 ```
 #### Int
-``` elm
+```
 > 5 // 2
 2 : Int
 ```
