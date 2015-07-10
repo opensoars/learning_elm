@@ -77,7 +77,7 @@ False
 
 ### Tuples
 ``` elm
-('Tests succes', true)
+("Tests succes", true)
 ```
 
 
