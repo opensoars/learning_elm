@@ -27,6 +27,8 @@ How are we doing today?
 -- Data type number, until we decide what to do with it.
 5
 71393
+> 5
+5 : number
 ```
 ### Int
 ``` elm
@@ -37,6 +39,8 @@ How are we doing today?
 ```
 2.5
 5.43455
+> 5 / 2
+2.5 : Float
 ```
 
 
