@@ -17,11 +17,10 @@ Learning me some Elm.
 ## Data types
 
 ### Strings
+Single line strings are written with double quotes, multiple line strings are written with tripple double quotes.
 ``` elm
--- Single line string
 "Hello!"
 
--- Multiple line string
 """
 Hello World,
 
@@ -30,6 +29,7 @@ How are we doing today?
 ```
 
 ### Chars
+Chars use the single quote notation
 ``` elm
 'z'
 ```
@@ -38,6 +38,7 @@ How are we doing today?
 ```
 
 ### Numbers
+A pure number such as `5` will be of type `number` until it is turned into an `int` or `float`
 ``` elm
 -- Data type number, until we decide what to do with it.
 5
@@ -69,6 +70,7 @@ False
 ```
 
 ### Lists
+Standard array like functionality, one diffence: lists can only contain one data type. 
 ``` elm
 [1, 2, 3]
 ['a', 'b']
@@ -76,6 +78,7 @@ False
 ```
 
 ### Tuples
+Data structure which can contain multiple data types, unline lists.
 ``` elm
 ("Tests succes", true)
 ```
