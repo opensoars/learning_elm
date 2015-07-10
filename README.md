@@ -1,6 +1,8 @@
 # learning_elm
 Learning me some Elm.
 
+---
+
 ## Comments
 ``` elm
 -- Single line comment
