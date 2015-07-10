@@ -23,8 +23,22 @@ How are we doing today?
 ```
 
 ## Numbers
+```
+-- Data type number, until we decide what to do with it.
+5
+71393
+```
 ### Int
+``` elm
+> 5 // 2
+2 : Int
+```
 ### Float
+```
+2.5
+5.43455
+```
+
 
 ## Booleans
 ## Lists
