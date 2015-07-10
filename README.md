@@ -1,4 +1,4 @@
-# Comments
+## Comments
 ``` elm
 -- Single line comment
 
@@ -7,9 +7,9 @@
 -}
 ```
 
-# Data types
+## Data types
 
-## Strings
+### Strings
 ``` elm
 -- Single line string
 "Hello!"
@@ -22,7 +22,7 @@ How are we doing today?
 """
 ```
 
-## Numbers
+### Numbers
 ```
 -- Data type number, until we decide what to do with it.
 5
@@ -31,12 +31,12 @@ How are we doing today?
 > 5
 5 : number
 ```
-### Int
+#### Int
 ``` elm
 > 5 // 2
 2 : Int
 ```
-### Float
+#### Float
 ```
 2.5
 5.43455
@@ -45,9 +45,9 @@ How are we doing today?
 ```
 
 
-## Booleans
-## Lists
-## Tuples
+### Booleans
+### Lists
+### Tuples
 
 ```
 "Hello!" : String
@@ -60,9 +60,9 @@ False : Bool
 [[1],[2]] : List (List number)
 ```
 
-# Functions
+## Functions
 
-## Single line
+### Single line
 ``` elm
 isMoreThanZero n = n > 0
 ```
@@ -75,7 +75,7 @@ False : Bool
 ```
 
 
-## Multiple lines
+### Multiple lines
 ``` elm
 > isMuch n = \
 |   if n > 9999 then "Yeah, quite a lot!" else "Please, gimme more.."
